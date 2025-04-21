@@ -1,4 +1,4 @@
-# BlockTrust 🔗
+# TrustChain 🔗
 
 A **Blockchain-Based Trust Simulation using Game Theory**  
 This project simulates trust and reputation evolution in a decentralized blockchain network. Nodes behave either honestly or dishonestly over several rounds, and their actions affect their trust scores, reputations, and penalties. The system models game-theoretical behavior to study how cooperation or defection plays out in decentralized systems.
